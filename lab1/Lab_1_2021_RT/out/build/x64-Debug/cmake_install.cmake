@@ -1,8 +1,8 @@
-# Install script for directory: D:/RGU/Компьютерная графика/2021-graphics-rt/Lab_1_2021_RT
+# Install script for directory: D:/Study/6T_(3C)/Компьютерная графика/CG2021/lab1/Lab_1_2021_RT
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "D:/RGU/Компьютерная графика/2021-graphics-rt/Lab_1_2021_RT/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "D:/Study/6T_(3C)/Компьютерная графика/CG2021/lab1/Lab_1_2021_RT/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/RGU/Компьютерная графика/2021-graphics-rt/Lab_1_2021_RT/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Study/6T_(3C)/Компьютерная графика/CG2021/lab1/Lab_1_2021_RT/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
