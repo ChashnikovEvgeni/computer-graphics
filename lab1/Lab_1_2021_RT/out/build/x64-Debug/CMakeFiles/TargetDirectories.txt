@@ -1,3 +1,0 @@
-D:/Study/6T_(3C)/Компьютерная графика/CG2021/lab1/Lab_1_2021_RT/out/build/x64-Debug/CMakeFiles/rt_sample_new.dir
-D:/Study/6T_(3C)/Компьютерная графика/CG2021/lab1/Lab_1_2021_RT/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-D:/Study/6T_(3C)/Компьютерная графика/CG2021/lab1/Lab_1_2021_RT/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

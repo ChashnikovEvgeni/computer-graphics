@@ -1,0 +1,3 @@
+﻿  Material.cpp
+D:\Study\6T_(3C)\Компьютерная графика\CG2021\RT\lab_1_rt\lab_1_rt\Material.cpp(27,53): warning C4305: аргумент: усечение из "double" в "float"
+  lab_1_rt.vcxproj -> D:\Study\6T_(3C)\Компьютерная графика\CG2021\RT\lab_1_rt\Debug\lab_1_rt.exe
